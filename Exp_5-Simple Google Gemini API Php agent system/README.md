@@ -1,4 +1,4 @@
-## Exp_5 - Create a simple Google Gemini API Php agent system
+## Exp_5 - Create a simple Google Gemini API Php three agent system
 
 ### Objectives
 - Create the functions to set up a simple agent system in Php that uses the Google Gemini API.

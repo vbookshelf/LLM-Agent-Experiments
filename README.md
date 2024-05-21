@@ -11,3 +11,6 @@ https://github.com/vbookshelf/LLM-Agent-Experiments/tree/main/Exp_1-Create%20a%2
 
 - Exp_2 - Create a simple english practice Php agentic system<br>
 https://github.com/vbookshelf/LLM-Agent-Experiments/tree/main/Exp_2-Create%20a%20simple%20english%20practice%20php%20agentic%20system
+
+- Exp_3 - Create a working Php agent system with chat app frontend<br>
+https://github.com/vbookshelf/LLM-Agent-Experiments/tree/main/Exp_3-Working%20Php%20agent%20system%20with%20chat%20app%20frontend

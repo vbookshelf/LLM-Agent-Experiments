@@ -17,3 +17,6 @@ https://github.com/vbookshelf/LLM-Agent-Experiments/tree/main/Exp_3-Working%20Ph
 
 - Exp_4 - Create a simple Php agent system that uses the Google Gemini API<br>
 https://github.com/vbookshelf/LLM-Agent-Experiments/tree/main/Exp4-Simple%20Php%20agent%20system%20with%20the%20Google%20Gemini%20API
+
+- Exp_5 - Create a simple Google Gemini API Php three agent system<br>
+https://github.com/vbookshelf/LLM-Agent-Experiments/tree/main/Exp_5-Simple%20Google%20Gemini%20API%20Php%20agent%20system

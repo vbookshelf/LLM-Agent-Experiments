@@ -115,34 +115,21 @@ function process_json_output($json_output) {
 }
 
 
+
+
 // Run the agent system
 //----------------------
 
-$user_message = "Hello how r you?";
+$system_message = "You are a helpful assistant.";
 
-// Run the chat agent
-$message_history = array();
-$message_history[] = array("role" => "system", "content" => $chat_agent_system_message);
-$message_history[] = array("role" => "user", "content" => $user_message);
+$user_message = "Hello";
 
-$chat_agent_response = run_agent_with_memory($message_history);
+$response = run_agent_without_memory($system_message, $user_message);
 
 
-$message_history[] = array("role" => "assistant", "content" => $chat_agent_response);
 
 
-// Run the proofreader agent
-// Checks the user message for errors
-$corrected_user_message = run_agent_without_memory($proofreader_agent_system_message, $user_message);
-
-// Run the translation agent
-// Translates the chat agent's response into Spanish
-$translated_chat_agent_response = run_agent_without_memory($translation_agent_system_message, $chat_agent_response);
-
-
-echo $corrected_user_message;
-echo $chat_agent_response;
-echo $translated_chat_agent_response;
+echo $response;
 
 
 

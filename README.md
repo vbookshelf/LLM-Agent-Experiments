@@ -20,3 +20,6 @@ https://github.com/vbookshelf/LLM-Agent-Experiments/tree/main/Exp4-Simple%20Php%
 
 - Exp_5 - Create a simple Google Gemini API Php three agent system<br>
 https://github.com/vbookshelf/LLM-Agent-Experiments/tree/main/Exp_5-Simple%20Google%20Gemini%20API%20Php%20agent%20system
+
+- Exp_6 - Improved Gemini API simple agent code<br>
+https://github.com/vbookshelf/LLM-Agent-Experiments/tree/main/Exp_6-Improved%20Gemini%20API%20simple%20agent%20code

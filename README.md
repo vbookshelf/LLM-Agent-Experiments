@@ -24,5 +24,5 @@ https://github.com/vbookshelf/LLM-Agent-Experiments/tree/main/Exp_5-Simple%20Goo
 - Exp_6 - Improved Gemini API simple agent code<br>
 https://github.com/vbookshelf/LLM-Agent-Experiments/tree/main/Exp_6-Improved%20Gemini%20API%20simple%20agent%20code
 
-Exp_7 - Create improved Gemini API working chat app with frontend<br>
+- Exp_7 - Create improved Gemini API working chat app with frontend<br>
 https://github.com/vbookshelf/LLM-Agent-Experiments/tree/main/Exp_7-Gemini%20API%20improved%20working%20chat%20app%20with%20frontend

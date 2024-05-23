@@ -26,3 +26,6 @@ https://github.com/vbookshelf/LLM-Agent-Experiments/tree/main/Exp_6-Improved%20G
 
 - Exp_7 - Create improved Gemini API working chat app with frontend<br>
 https://github.com/vbookshelf/LLM-Agent-Experiments/tree/main/Exp_7-Gemini%20API%20improved%20working%20chat%20app%20with%20frontend
+
+- Exp_8 - Simple Gemini Flash Php agent system w system message<br>
+https://github.com/vbookshelf/LLM-Agent-Experiments/tree/main/Exp_8-Simple%20Gemini%20Flash%20Php%20agent%20system%20w%20system%20message
